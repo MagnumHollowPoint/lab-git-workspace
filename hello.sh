@@ -8,3 +8,5 @@ log_message() {
     echo "[LOG] $(date): $1"
 }
 log_message "Script started"
+
+echo "Edited online!"
